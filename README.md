@@ -9,4 +9,4 @@ View app: https://rjmcbain.github.io/JS-NYE-Countdown/
 HTML  |  CSS  |  JavaScript
 
 ### About
-JavaScript app that utilizes the Data api that shows a countdown to the new year.
+JavaScript app that utilizes the Date object that shows a countdown to the new year.
